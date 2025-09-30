@@ -1,3 +1,6 @@
+Nama: Jabbar Hafizh Abdillah
+NIM: 2409116116
+Kelas: Sistem Informasi C 24
 # Post-Test-4-PBO
 
 ## Deskripsi Program
